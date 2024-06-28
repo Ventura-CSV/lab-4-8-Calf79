@@ -17,6 +17,10 @@ def main():
                         break
                 if prime:
                     plist.append(num)
-    print(plist)
+        print(plist)
+        return plist
 if __name__ == '__main__':
     main()
+
+
+
